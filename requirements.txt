@@ -1,0 +1,4 @@
+aiopipe==0.2.2
+aiofiles==23.1.0
+prometheus-client==0.17.0
+sanic==23.3.0
